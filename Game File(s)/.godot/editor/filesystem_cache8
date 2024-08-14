@@ -1,0 +1,18 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1723646995
+Fall.png::CompressedTexture2D::6644759119659269262::1722695525::1722695525::1::::<><>::
+Floor-Forest.png::CompressedTexture2D::7524806448850314688::1722530701::1722530701::1::::<><>::
+Green Backdrop.png::CompressedTexture2D::8218344368462617223::1722451187::1722451187::1::::<><>::
+icon.svg::CompressedTexture2D::101206809707767131::1722293075::1722293087::1::::<><>::
+Jump-Floor.png::CompressedTexture2D::5107255639323652833::1722903648::1722903648::1::::<><>::
+Jump.png::CompressedTexture2D::5246485999274650651::1722639874::1722380682::1::::<><>::
+Moving.png::CompressedTexture2D::4696276735770739217::1723646995::1723646995::1::::<><>::
+Scene1.tscn::PackedScene::437003089453911990::1723646834::0::1::::<><>::uid://bdijrpimth55y::::res://Scenes/Plyr_Object.tscn<>uid://dfhcp0a4fgw3q::::res://Floor-Forest.png<>uid://dpda6wjlrd0cx::::res://Green Backdrop.png<>uid://b7vw1b2dra38v::::res://Scenes/platform.tscn
+Stopped.png::CompressedTexture2D::4123495649001998775::1722639507::1722639507::1::::<><>::
+Terrain.png::CompressedTexture2D::2067772427201584998::1722474123::1722474123::1::::<><>::
+Walk.png::CompressedTexture2D::3665779127355510450::1722639801::1722639801::1::::<><>::
+::res://Scenes/::1723646908
+platform.tscn::PackedScene::4677197911819909015::1722968758::0::1::::<><>::uid://ce080v4c8gu7r::::res://Jump-Floor.png
+Plyr_Object.gd::GDScript::-1::1722968576::0::1::::<>CharacterBody2D<>::
+Plyr_Object.tscn::PackedScene::2614079848850571636::1723646835::0::1::::<><>::res://Scenes/Plyr_Object.gd<>uid://cg0o4fyndbs48::::res://Jump.png<>uid://by0pmu0ocj5ct::::res://Stopped.png<>uid://c1w1hg7dlulyc::::res://Fall.png<>uid://bshy31y0s80pi::::res://Walk.png
+Enemy_Grouper.tscn::PackedScene::2993923510467453449::1723646908::0::1::::<><>::

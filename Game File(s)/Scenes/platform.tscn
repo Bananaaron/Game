@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://b7vw1b2dra38v"]
+
+[ext_resource type="Texture2D" uid="uid://ce080v4c8gu7r" path="res://Jump-Floor.png" id="1_kdvdj"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_2j0l5"]
+size = Vector2(48, 48)
+
+[node name="Platform" type="StaticBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture_filter = 1
+texture = ExtResource("1_kdvdj")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_2j0l5")
+one_way_collision = true
